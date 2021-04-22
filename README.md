@@ -19,4 +19,4 @@
 
 
 ## For test run:
-python -m pytest tests/
+<code>python -m pytest tests/</code>
